@@ -6,12 +6,10 @@
 ### Lead Business Analyst | CBAP® Certified
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-blue?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/CBAP®-Certified-success?style=for-the-badge" alt="CBAP Certified"/>
-  <img src="https://img.shields.io/badge/Master's-Business%20Analytics%202022-orange?style=for-the-badge" alt="Education"/>
+  <kbd><b>📊 Experience: 6+ Years in BA </b></kbd>
+  <kbd><b>✅ CBAP® Certified, 2025 </b></kbd>
+  <kbd><b>🎓 Master's in Business Analytics, Mediterranean School of Business, 2022</b></kbd>
 </p>
-
----
 
 ### 💼 About Me
 
