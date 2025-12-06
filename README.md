@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hey there, I'm Houssem
+## 👋 Hey there,
+# I'm Houssem Denguir
 
 ### Lead Business Analyst | CBAP® Certified
 
